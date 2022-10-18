@@ -115,16 +115,16 @@ font-size: 19px;
 
 }
 #col1{
-    border-top-left-radius: 8px;
-    border-bottom-left-radius: 8px;
+    border-radius: 8px;
     min-width: 300px;
+    margin-right: 1vw;
  
 }
 #col2{
-    border-top-right-radius: 8px;
-    border-bottom-right-radius: 8px;
+    border-radius: 8px;
     flex-direction: column;
     justify-content: center;
+    margin-left: 1vw;
 }
 
 #col1 p{
